@@ -10,7 +10,7 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Beranda</a>
-
+    <a class="sidebar-nav-item" href="{{ site.linkajaib}}">Portofolio</a>
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -24,8 +24,8 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-     <a class="sidebar-nav-item" href="{{https://faisalnur.github.io/about/}">Tentang</a>
-    <a class="sidebar-nav-item" href="{{ site.linkajaib}}">Portofolio</a>
+
+    
   </nav>
 
   <div class="sidebar-item">
