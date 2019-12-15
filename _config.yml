@@ -6,7 +6,7 @@ relative_permalinks: false
 
 # Setup
 title:               Faisal Nur
-tagline:             'Portofolio, Blog Pribadi, dan Hal Lainnya'
+#tagline:             'Portofolio, Blog Pribadi, dan Hal Lainnya'
 description:         'Kadang menulis untuk orang lain, lebih sering menulis untuk diri sendiri.'
 url:                 faisalnur.github.io
 baseurl:             ''
