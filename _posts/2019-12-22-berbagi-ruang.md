@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Berbagi Ruang
+permalink: berbagiruang
 ---
 <p>Dari sekian banyak etnis yang hidup di Indonesia. Agaknya, etnis tionghoa masih dianggap oleh
 sebagian besar orang sebagai etnis yang meresahkan. Dalam sejarah Indonesia, bukan sekali dua
