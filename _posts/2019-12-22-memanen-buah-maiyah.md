@@ -9,7 +9,7 @@ permalink: /buahmaiyah/
 >Kalau diri seorang Emha Ainun Nadjib diibaratkan sebagai sebuah pohon, maka seluruh umat manusia, Maiyah pada khususnya, dipersilahkan untuk memetik buahnya. Sementara Jamaah Maiyah itu sendiri yang sudah dua dekade lebih terus menerus memetik buah tersebut, sudahkah memberikan buahnya sendiri kepada umat manusia? Atau jangan-jangan, sampai hari ini pun kita masih belum melihat pohon Maiyah itu secara nyata?
 
 <p>Idiom buah semacam itu tentunya sudah cukup sering kita dengar. Lebih-lebih dalam
-tulisan Mbah Nun. Dalam *Maiyah lil'Alamin* misalnya, Mbah Nun mengibaratkan apa yang beliau
+tulisan Mbah Nun. Dalam Maiyah lil'Alamin misalnya, Mbah Nun mengibaratkan apa yang beliau
 sampaikan dalam berbagai forum sebagai buah. “Buah mangga dari kebun saya. Kebun yang saya
 sendiri mempersiapkan dan mengolah tanahnya. Pohon mangga yang saya sendiri yang
 menanamnya. Kemudian saya sendiri yang menjaganya dari hama-hama dan maling-maling.
