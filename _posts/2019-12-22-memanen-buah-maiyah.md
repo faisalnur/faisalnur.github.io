@@ -131,12 +131,12 @@ pertanyaan itu menjadi titik refleksi kita bersama.</p>
 
 ---
 
-<sup>1</sup> : Daur 15, Maiyah lil'Alamin, 17 Februari 2016.
+<sup>1</sup>Daur 15, Maiyah lil'Alamin, 17 Februari 2016.
 
-<sup>2</sup>: Daur 38, Bukan Sorga Berakibat Tuhan, 11 Maret 2016.
+<sup>2</sup>Daur 38, Bukan Sorga Berakibat Tuhan, 11 Maret 2016.
 
-<sup>3</sup>: Daur 116, Ilmu Pohon dan Ilmu Iblis, 28 Mei 2016.
+<sup>3</sup>Daur 116, Ilmu Pohon dan Ilmu Iblis, 28 Mei 2016.
 
-<sup>4</sup>: Daur 21, Empat Huruf Yang Mengatasi Demokrasi dan Tuhan, 23 Februari 2016.
+<sup>4</sup>Daur 21, Empat Huruf Yang Mengatasi Demokrasi dan Tuhan, 23 Februari 2016.
 
-<sup>5</sup>: Daur 116, Ilmu Pohon dan Ilmu Iblis, 28 Mei 2016.
+<sup>5</sup>Daur 116, Ilmu Pohon dan Ilmu Iblis, 28 Mei 2016.
