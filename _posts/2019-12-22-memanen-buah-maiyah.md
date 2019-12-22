@@ -4,7 +4,7 @@ title: Memanen Buah Maiyah
 permalink: /buahmaiyah/
 ---
 
-!(https://i.imgur.com/WU8LKls.png)
+![Memanen Buah Maiyah](https://i.imgur.com/WU8LKls.png)
 
 >Kalau diri seorang Emha Ainun Nadjib diibaratkan sebagai sebuah pohon, maka seluruh umat manusia, Maiyah pada khususnya, dipersilahkan untuk memetik buahnya. Sementara Jamaah Maiyah itu sendiri yang sudah dua dekade lebih terus menerus memetik buah tersebut, sudahkah memberikan buahnya sendiri kepada umat manusia? Atau jangan-jangan, sampai hari ini pun kita masih belum melihat pohon Maiyah itu secara nyata?
 
@@ -14,7 +14,7 @@ sampaikan dalam berbagai forum sebagai buah. “Buah mangga dari kebun saya. Keb
 sendiri mempersiapkan dan mengolah tanahnya. Pohon mangga yang saya sendiri yang
 menanamnya. Kemudian saya sendiri yang menjaganya dari hama-hama dan maling-maling.
 Kemudian saya memetiknya, mengulitinya, mengirisinya, meletakkannya di piring, akhirnya saya
-suguhkan kepada Jamaah Maiyah."[^1]</p>
+suguhkan kepada Jamaah Maiyah."<sup>1</sup></p>
 
 <p>begitu kata Mbah Nun. Buah yang demikian itu, sesungguhnya
 adalah buah yang tumbuh dari pohon Si Mbah itu sendiri. Ia adalah buah yang dapat diakses secara
@@ -61,7 +61,7 @@ Maiyah bukanlah persoalan Aku atau Engkau, tapi lebih daripada itu, ia telah men
 Kita yang satu. Buah yang dibagikan Mbah Nun selama lebih dari dua dekade tadi, pada dasarnya
 berfungsi untuk menguatkan tubuh kita dalam menjaga dan menumbuh kembangkan pohon kita
 sendiri. Dengan memahami apa itu ranting dan apa itu pohon, memilah mana yang
-*haq* dan mana yang *bathil*, kita digerakkan untuk menghindari hancurnya peradaban yang sudah kita buat sendiri.<^2></p>
+_haq_ dan mana yang _bathil_, kita digerakkan untuk menghindari hancurnya peradaban yang sudah kita buat sendiri.<sup>2</sup></p>
 
 ---
 
@@ -95,7 +95,7 @@ tidak terpedaya oleh paket irisan mangga dari Tuhan. Ketika kita sibuk menguliti
 buah mangga, kulit dan bijinya jangan kita buang begitu saja. Sebab pekerjaan besar selanjutnya
 adalah ta'dib, atau berkebun. Berkebun peradaban dan bercocok tanam sebagai laku kebudayaan
 manusia. Untuk terus menanam, menyirami, memelihara, menjaga, hingga memetik hasil panennya
-sebagai sebuah siklus yang terjadi terus menerus.[^3]</p>
+  sebagai sebuah siklus yang terjadi terus menerus.<sup>3</sup></p>
 
 ---
 
@@ -117,13 +117,13 @@ mempermudah penilaian kita. Buah Maiyah janganlah dieksploitasi, dikonsumsi teru
 bahkan berlebihan. Kita perlu mengingat kembali hakikat buah itu sendiri, yang bukan hanya untuk
 dikonsumsi tapi juga untuk ditanam kembali. Oleh karena itu, hakikat keberhasilannya oleh Mbah
 Nun, dalam Empat Huruf yang Mengatasi Demokrasi dan Tuhan, justru lebih tinggi daripada urusan konsumsi, yaitu untuk
-menjaga persambungan dengan Maha Sumber Ilmu.[^4] Suatu hubungan vertikal transendental antara hamba dan Tuhannya.</p>
+  menjaga persambungan dengan Maha Sumber Ilmu.<sup>4</sup> Suatu hubungan vertikal transendental antara hamba dan Tuhannya.</p>
 
 ---
 
 <p>Dalam Ilmu Pohon dan Ilmu Iblis, Mbah Nun menjelaskan bahwa Allah menggunakan
 pohon dalam firman-firmannya sebagai simbol atas kebaikan, keluasan, kedalaman, ketinggian,
-ketangguhan dan keteguhan.[^5] Dari sekian banyak pemaknaan atas pohon tadi, bolehlah kita ambil
+  ketangguhan dan keteguhan.<sup>5</sup> Dari sekian banyak pemaknaan atas pohon tadi, bolehlah kita ambil
 dua makna terakhirnya saja. Yaitu pasal ketangguhan dan keteguhan. Sudahkan pohon Maiyah yang
 berbuah majemuk itu menyimbolkan dua makna barusan? Sebagai sebuah kalimat retoris,
 pertanyaan barusan tentunya tidak memerlukan jawaban. Meskipun demikian, bolehlah kalau
@@ -131,8 +131,12 @@ pertanyaan itu menjadi titik refleksi kita bersama.</p>
 
 ---
 
-[^1]: Daur 15, Maiyah lil'Alamin, 17 Februari 2016.
-[^2]: Daur 38, Bukan Sorga Berakibat Tuhan, 11 Maret 2016.
-[^3]: Daur 116, Ilmu Pohon dan Ilmu Iblis, 28 Mei 2016.
-[^4]: Daur 21, Empat Huruf Yang Mengatasi Demokrasi dan Tuhan, 23 Februari 2016.
-[^5]: Daur 116, Ilmu Pohon dan Ilmu Iblis, 28 Mei 2016.
+<sup>1</sup> : Daur 15, Maiyah lil'Alamin, 17 Februari 2016.
+
+<sup>2</sup>: Daur 38, Bukan Sorga Berakibat Tuhan, 11 Maret 2016.
+
+<sup>3</sup>: Daur 116, Ilmu Pohon dan Ilmu Iblis, 28 Mei 2016.
+
+<sup>4</sup>: Daur 21, Empat Huruf Yang Mengatasi Demokrasi dan Tuhan, 23 Februari 2016.
+
+<sup>5</sup>: Daur 116, Ilmu Pohon dan Ilmu Iblis, 28 Mei 2016.
