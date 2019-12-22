@@ -9,9 +9,9 @@ kali saja tindak kekerasan terjadi dan menimpa etnis tionghoa. Mulai dari Geger 
 Tragedi Angke yang terjadi di Batavia abad ke-18. Atau kerusuhan Mei 1998, dimana banyak
 keturunan tionghoa yang diperkosa dan dibunuh.</p>
 
-<p>Berdasarkan sensus penduduk tahun 2010, warga negara Indonesia keturunan tionghoa tercatat
-sebanyak 2.832.510 orang; atau hanya sekitar 1,20% dari total penduduk Indonesia saat itu. Dengan
-jumlah yang tidak seberapa itu, ruang gerak yang dimiliki oleh etnis minoritas ini pun juga masih
+>Berdasarkan sensus penduduk tahun 2010, warga negara Indonesia keturunan tionghoa tercatat sebanyak 2.832.510 orang; atau hanya sekitar 1,20% dari total penduduk Indonesia saat itu.
+
+<p>Dengan jumlah yang tidak seberapa itu, ruang gerak yang dimiliki oleh etnis minoritas ini pun juga masih
 sangat terbatas. Tengoklah kondisi perpolitikan di Jakarta akhir-akhir ini, aksi-aksi penolakan Ahok
 yang terjadi belakangan, pada dasarnya, merupakan bentuk pembatasan ruang gerak etnis tionghoa.
 Ia muncul sebagai bentuk keresahan mayoritas atas kekuatan dan pengaruh etnis minoritas.</p>
@@ -23,7 +23,7 @@ juga muncul akibat sedikitnya ruang gerak mereka. Etnis tionghoa yang bermigrasi
 kebanyakan memutuskan untuk berdagang. Walaupun pada era kolonial, beberapa kuli dan pekerja
 kasar, juga didatangkan dari Cina oleh pemerintah Belanda.</p>
 
-</p>Secara struktural, etnis tionghoa, dalam sejarahnya, selalu dikondisikan untuk masuk kedalam ruang
+<p>Secara struktural, etnis tionghoa, dalam sejarahnya, selalu dikondisikan untuk masuk kedalam ruang
 perdagangan. Dengan kebiri politik dan hukum yang berlaku sejak zaman belanda. Dimana etnis
 tionghoa dan keturunan bangsa lainnya, masuk ke dalam golongan Timur Asing. Berbeda dengan
 Belanda dan Jepang, yang masuk kedalam golongan Eropa. Dan bangsa Indonesia itu sendiri yang
