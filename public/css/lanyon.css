@@ -616,7 +616,7 @@ ul.post-list-content {
           font-size: 16px;
           padding-top: 0.2em; } }
     ul.post-list-content .post-link a.post-link-url {
-      color: whitesmoke; }
+      color: #303030; }
       ul.post-list-content .post-link a.post-link-url:hover {
         color: #303030; }
       @media screen and (max-width: 420px) {
