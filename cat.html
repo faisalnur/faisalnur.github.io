@@ -8,7 +8,8 @@ title: Post
   <h2 class="post-list-header post-list-category" id="# {{ category | first }}">{{ category | first }}</h2>
     <ul class="post-list-content">
     {% for post in category.last %}
-      <li class="post-link"><a class="post-link-url" href="{{ post.url }}">{{ post.title }}</a></li>
+      <li class="post-link"><div class="post-link-date">{{ post.date | date: "%b %d" }}</div>
+<a class="post-link-url" href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
 {% endfor %}
