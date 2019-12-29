@@ -585,15 +585,15 @@ h2.post-list-header:first-child {
   margin-top: 30px; }
 
 h2.post-list-header.post-list-category {
-  border: 2px solid #202020;
-  color: #313131;
+  border: 2px solid #303030;
+  color: #303030;
   float: left;
   font-size: 1em;
   font-weight: normal;
   padding: 10px; }
   h2.post-list-header.post-list-category:hover {
-    color: #bbb;
-    border-color: #bbb; }
+    color: #303030;
+    border-color: #303030; }
 
 ul.post-list-content {
   float: left;
@@ -618,7 +618,7 @@ ul.post-list-content {
     ul.post-list-content .post-link a.post-link-url {
       color: whitesmoke; }
       ul.post-list-content .post-link a.post-link-url:hover {
-        color: #3B3B3B; }
+        color: #303030; }
       @media screen and (max-width: 420px) {
         ul.post-list-content .post-link a.post-link-url {
           font-size: 16px; } }
