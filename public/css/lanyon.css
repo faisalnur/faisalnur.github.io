@@ -25,6 +25,7 @@
  * Pagination
  * Reverse layout
  * Themes
+ * Categories page
  */
 
 
@@ -561,3 +562,63 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/*
+ * This Additional CSS for Categories Page
+ *
+ * Still trying it to look like this web blog-kaush-co
+ * and
+ */
+
+h2.post-list-header {
+  font-family: "skolar-sans-latin", "Source Sans Pro", "PT Sans", Trebuchet, sans-serif;
+  font-weight: 300;
+  clear: left;
+  color: #f3f3f3;
+  margin-left: 1.1em; }
+  @media screen and (max-width: 420px) {
+    h2.post-list-header {
+      margin-left: 0em;
+      text-align: center; } }
+
+h2.post-list-header:first-child {
+  margin-top: 30px; }
+
+h2.post-list-header.post-list-category {
+  border: 2px solid whitesmoke;
+  color: whitesmoke;
+  float: left;
+  font-size: 1em;
+  font-weight: normal;
+  padding: 10px; }
+  h2.post-list-header.post-list-category:hover {
+    color: #bbb;
+    border-color: #bbb; }
+
+ul.post-list-content {
+  float: left;
+  margin: 0 0 30px 0;
+  list-style: none;
+  width: 97%; }
+  @media screen and (max-width: 420px) {
+    ul.post-list-content {
+      width: 100%; } }
+  ul.post-list-content .post-link {
+    margin: 0.1em 0; }
+    ul.post-list-content .post-link .post-link-date {
+      float: left;
+      text-align: right;
+      margin-right: 10px;
+      width: 16%;
+      padding-bottom: 0.2em; }
+      @media screen and (max-width: 420px) {
+        ul.post-list-content .post-link .post-link-date {
+          font-size: 16px;
+          padding-top: 0.2em; } }
+    ul.post-list-content .post-link a.post-link-url {
+      color: whitesmoke; }
+      ul.post-list-content .post-link a.post-link-url:hover {
+        color: #bbb; }
+      @media screen and (max-width: 420px) {
+        ul.post-list-content .post-link a.post-link-url {
+          font-size: 16px; } }

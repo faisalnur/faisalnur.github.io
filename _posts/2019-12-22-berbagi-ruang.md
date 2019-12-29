@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Berbagi Ruang
+categories: Tulisan
 permalink: /berbagiruang/
 ---
 <p>Dari sekian banyak etnis yang hidup di Indonesia. Agaknya, etnis tionghoa masih dianggap oleh
