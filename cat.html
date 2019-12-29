@@ -5,12 +5,11 @@ title: Post
 
 <ul>
 {% for category in site.categories %}
-  <li><h2 class="post-list-header post-list-category" id="# {{ category | first }}">{{ category | first }}</h2>
+  <h2 class="post-list-header post-list-category" id="# {{ category | first }}">{{ category | first }}</h2>
     <ul class="post-list-content">
     {% for post in category.last %}
       <li class="post-link"><a class="post-link-url" href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
-  </li>
 {% endfor %}
 </ul>
