@@ -1,7 +1,6 @@
 ---
-layout: blog
+layout: post
 title: Memanen Buah Maiyah
-categories: Maiyah
 permalink: /buahmaiyah/
 ---
 
