@@ -3,6 +3,7 @@ layout: post
 title: Melacak Jejak Hutang Dalam Peradaban Manusia
 categories: Bacaan
 permalink: /hutang/
+tags: [graeber]
 ---
 
 Membaca Graber adalah sebuah usaha untuk memahami sistem ekonomi yang demikian ruwet dan mengawang-awang, setidaknya buat Saya. Dua tahun lebih bergelut dengan angka statistik dan asumsi ekonom sepertinya belum menjernihkan pikiran Saya soal apa itu ekonomi. Rasa penasaran memang muncul dari kebutuhan pekerjaan yang begitu praktis dan pragmatis. Namun, lebih daripada itu, ada semangat untuk bisa membangun idealisme pribadi yang jauh lebih kokoh dari hari ini. Dengan pondasi dan arah juang yang konkret.
