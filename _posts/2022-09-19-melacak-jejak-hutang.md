@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Melacak Jejak Hutang Dalam Peradaban Manusia
 categories: Bacaan
 permalink: /hutang/
