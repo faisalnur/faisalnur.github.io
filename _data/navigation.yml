@@ -1,9 +1,9 @@
 links:
-- title: Writing
+- title: Blog
   url: /
-- title: About
+- title: Tentang
   url: /about
-- title: Search
+- title: Pencarian
   url: /search
-- title: Rss
+- title: RSS
   url: /atom.xml
