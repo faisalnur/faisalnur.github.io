@@ -1,8 +1,11 @@
 ---
-layout: page
-title:
+layout: default
 ---
-Catatan Kaki
-<hr />
-22/12/19 - Mengunggah beberapa tulisan opini yang pernah saya buat 2-3 tahun lalu. <a href="https://faisalnur.github.io/berbagiruang" target="_blank" rel="nofollow">Berbagi Ruang</a> adalah opini yang dipublikasikan secara terbatas -- dalam bentuk majalah untuk tugas kuliah salah seorang kawan di Jurusan Komunikasi. Berisikan refleksi singkat saya soal rasisme etnis di Yogyakarta yang sampai hari ini masih jadi masalah dan cenderung semakin parah. <a href="https://faisalnur.github.io/buahmaiyah" target="_blank" rel="nofollow">Memanen Buah Maiyah</a> adalah tulisan yang saya buat saat berproses di Perpustakaan Emha Ainun Nadjib. <i>Header</i> saya desain sendiri menggunakan Inkscape. Berharap bisa tayang di laman Caknun.com, meskipun harus berbesar hati karena pada akhirnya tulisan ini ditolak oleh tim redaksi. Entah apa alasannya.
-<hr />
+
+<section class="posts">
+<ul>
+{% for post in site.posts %}
+<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+{% endfor %}
+</ul>
+</section>
