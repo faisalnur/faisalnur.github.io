@@ -1,14 +1,40 @@
 # Auto-install Jekyll Theme
 remote_theme: erlzhang/jekyll-theme-persephone
 
+# Persephone Config
+
+title: Faisal Nur
+# description: The description of your site.
+email: mfaisalni@gmail.com
+
+# author: Your name #  Default is your site title.
+
+social:
+   github: faisalnur
+   twitter: mfaisalni
+   facebook: mfaisalni
+   instagram: mfaisalni
+   linkedin: mfaisalni
+
+# theme_setting:
+   # The slides count in the slides layout. Default is 4.
+   slides_count: 5
+   # The ← back URL on the top of your post page. Default is your site's home page.
+   blog_page: "blog/index.md"
+   # The URL on your name on the bottom of your post and page. Default is your site's home page.
+   about_page: "about.md"
+   #  The URL of the menu icon(which has three black lines). Will be shown on the slides/book/chapter layouts It won't be shown if blank.
+   archive_page: "archive.md"
+   # The nav links on the top right of home/page/post/blog layout. You can set a local page(by setting a layout's path) or and external link ( both title and url are required) here.
+   nav_pages:
+     - "about.md"
+     -
+#       title: "External Link Title"
+#       url: "https://your-external-link.com"
+
+
 #Markdown flavour
 markdown: kramdown
 
-# Menu on Header
-header_pages:
-  - index.html
-  - portofolio.md
-  - about.md
-
 #Footer and social media links
-footer: '<a href="https://twitter.com/mfaisalni/">Twitter</a> // <a href="https://www.linkedin.com/in/mfaisalni/">LinkedIn</a>'
+#footer: '<a href="https://twitter.com/mfaisalni/">Twitter</a> // <a href="https://www.linkedin.com/in/mfaisalni/">LinkedIn</a>'
