@@ -1,40 +1,30 @@
-# Auto-install Jekyll Theme
-remote_theme: erlzhang/jekyll-theme-persephone
-
-# Persephone Config
-
-title: Faisal Nur
-# description: The description of your site.
-email: mfaisalni@gmail.com
-
-# author: Your name #  Default is your site title.
-
-social:
-   github: faisalnur
-   twitter: mfaisalni
-   facebook: mfaisalni
-   instagram: mfaisalni
-   linkedin: mfaisalni
-
-# theme_setting:
-   # The slides count in the slides layout. Default is 4.
-   slides_count: 3
-   # The ← back URL on the top of your post page. Default is your site's home page.
-   blog_page: "index.md"
-   # The URL on your name on the bottom of your post and page. Default is your site's home page.
-   about_page: "about.md"
-   #  The URL of the menu icon(which has three black lines). Will be shown on the slides/book/chapter layouts It won't be shown if blank.
-   archive_page: "archive.md"
-   # The nav links on the top right of home/page/post/blog layout. You can set a local page(by setting a layout's path) or and external link ( both title and url are required) here.
-   nav_pages:
-     - "about.md"
-     - "index.md"
-#       title: "External Link Title"
-#       url: "https://your-external-link.com"
-
-
+remote_theme: niklasbuschmann/contrast@v2.11
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  
 #Markdown flavour
 markdown: kramdown
 
-#Footer and social media links
-#footer: '<a href="https://twitter.com/mfaisalni/">Twitter</a> // <a href="https://www.linkedin.com/in/mfaisalni/">LinkedIn</a>'
+title: "Faisal Nur"
+author: "Faisal Nur"
+permalink: /:title/
+lang: "id"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
