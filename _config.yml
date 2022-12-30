@@ -1,16 +1,16 @@
-site: Sidey
+site: Faisal Nur
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: Faisal Nur
+description: Blog, etc.
 twitter:
-  username: #yourusername
+  username: mfaisalnir
   card: summary
   creator: #yourusername
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: mfaisalni
+  name: #yourname
   avatar:
-  email: #youremail
+  email: mfaisalni@gmail.com
   url: #yoururl
 permalink: pretty
 
