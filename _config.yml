@@ -1,0 +1,14 @@
+# Auto-install Jekyll Theme
+remote_theme: b2a3e8/jekyll-theme-console
+
+#Markdown flavour
+markdown: kramdown
+
+# Menu on Header
+header_pages:
+  - index.html
+  - portofolio.md
+  - about.md
+
+#Footer and social media links
+footer: '<a href="https://twitter.com/mfaisalni/">Twitter</a> // <a href="https://www.linkedin.com/in/mfaisalni/">LinkedIn</a>'
