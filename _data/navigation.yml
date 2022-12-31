@@ -1,9 +1,9 @@
 links:
-- title: Blog
-  url: /
-- title: Tentang
-  url: /about
+- title: Profil Penulis
+  url: /profil
 - title: Pencarian
   url: /search
+- title: Blog
+  url: /
 - title: RSS
   url: /atom.xml
