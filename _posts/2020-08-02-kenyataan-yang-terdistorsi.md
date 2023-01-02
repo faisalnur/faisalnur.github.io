@@ -5,7 +5,7 @@ title: Kenyataan yang Terdistorsi
 
 > _I’ve been looking so long at these pictures of you_  
 > _That I almost believe that they’re real_  
-> **The Cure**
+**The Cure**
 
 Ada batas yang tipis sekali antara kenyataan dan fiksi. Antara realitas yang menampakkan diri dengan
 imajinasi yang dibuat. Dunia yang dilihat seseorang mungkin akan sangat berbeda dengan orang lain.
