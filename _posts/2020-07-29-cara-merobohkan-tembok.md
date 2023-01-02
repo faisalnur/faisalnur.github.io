@@ -1,5 +1,6 @@
 ---
 layout: post
+locale: id
 title: Cara Merobohkan Tembok
 ---
 
