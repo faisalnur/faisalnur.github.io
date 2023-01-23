@@ -1,5 +1,5 @@
 // Import google font
-@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Domine:wght@700&family=Nanum+Myeongjo:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nixie+One&family=Roboto+Slab:wght@100;700&display=swap');
 
 *,:after,:before {
 	box-sizing:border-box;
@@ -9,10 +9,13 @@
 	padding:0;
 }
 
+
+font-family: 'Roboto Slab', serif;
+
 body {
-	font-family: 'Nanum Myeongjo', serif;
+	font-family: 'Roboto Slab', serif;
 	-webkit-font-smoothing: antialiased;
-    text-rendering: optimizeLegibility;
+   	text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1rem;
 	color: rgb(22, 23, 26);
@@ -38,7 +41,7 @@ pre {
 }
 
 .post h1, .post h2, .post h3, .post h4 {
-	font-family: 'Domine', serif;
+	font-family: 'Roboto Slab', serif;
 	margin: 1rem 0;
 }
 
@@ -102,13 +105,13 @@ header,section {
 }
 
 blockquote {
-	font-family: 'Caveat', cursive;
+	font-family: 'Nixie One', cursive;
    	border-left: 5px solid #ececec;
     	padding-left: 1rem;
 }
 
 h1,h2,h3,h4,h5 {
-	font-family: 'Domine', serif;
+	font-family: 'Roboto Slab', serif;
 	line-height: 1;
 	margin: 1rem 0;
 	font-weight: 600;
