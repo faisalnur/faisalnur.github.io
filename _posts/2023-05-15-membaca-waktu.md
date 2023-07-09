@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Inquirious: Usaha Mencari dan Mempertanyakan
+title: Inquirious
 categories: Tulisan
-permalink: /membaca-waktu/
+permalink: /pameran-inquirious/
 ---
+## Inquirious: Usaha Mencari dan Mempertanyakan
 
 Hani, pasangan saya, hanya bisa tertawa kecil. _"Ora tekan_ aku," katanya sambil memasuki Semarang Contemporary Art Gallery yang berlokasi di Kawasan Kota Lama. Komentar itu keluar bahkan sejak kakinya belum masuk lebih jauh ke tengah-tengah galeri. Pameran bertajuk _Inquirious_ itu agaknya tidak terlalu ramah buat umum, tapi sulit dipahami tak sepenuhnya sulit buat dinikmati.
 

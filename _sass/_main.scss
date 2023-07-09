@@ -78,9 +78,9 @@ hr {
 }
 
 header {
-	flex-basis:10rem;
 	flex-grow:1;
-	position:relative;
+	position:fixed;
+	left:10rem;
 }
 
 header a {
@@ -165,7 +165,7 @@ strong, b {
 main {
 	display:flex;
 	flex-wrap:wrap;
-	max-width:60rem;
+	max-width:35rem;
 	margin:2rem auto;
 	padding:1rem;
 }
