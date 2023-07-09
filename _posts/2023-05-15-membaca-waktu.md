@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Inquirious
+title: "Inquirious: Usaha Mencari dan Mempertanyakan"
 categories: Tulisan
+image: true
 permalink: /pameran-inquirious/
 ---
-## Inquirious: Usaha Mencari dan Mempertanyakan
-
 Hani, pasangan saya, hanya bisa tertawa kecil. _"Ora tekan_ aku," katanya sambil memasuki Semarang Contemporary Art Gallery yang berlokasi di Kawasan Kota Lama. Komentar itu keluar bahkan sejak kakinya belum masuk lebih jauh ke tengah-tengah galeri. Pameran bertajuk _Inquirious_ itu agaknya tidak terlalu ramah buat umum, tapi sulit dipahami tak sepenuhnya sulit buat dinikmati.
 
 _Inquirious_ menyajikan karya dua orang seniman asal Bali, Ines Katamso dan Alexander Sebastianus. Buat penikmat seni kontemporer, dua nama itu memang sudah kondang. Namun, buat Hani, nama-nama itu sama asingnya dengan pengalaman bertandang ke galeri seni.
@@ -22,6 +21,8 @@ _Telluric Thoughts_ terdiri dari enam karya dengan pola-pola berulang pada poton
 _Telluric_ sendiri merupakan istilah dari bahasa Latin _tellus_ yang berarti bumi. Dalam teks kuratorial, dijelaskan bahwa Ines mencoba buat menggali kembali konsepsi mitologis manusia akan monster. Sesuatu yang asing itu, menurut Ines, dapat dilihat dalam perspektif psikologis pra-modern. _"A communal attempt to channel and externalize our negative energy, a form of collective catharsis,"_ tulis Ganjar Gumilar.
 
 Peradaban panjang kita boleh membikin monster-monster itu sebagai luaran dari energi negatif yang kita simpan sedemikian rupa. Masalahnya kemudian, kemana larinya monster-monter itu ketika mitos telah diberantas _logos_? Ketika cerita, mahluk, dan gagasan primitif tak laku lagi dan digantikan oleh segala sesuatu yang serba saintifik?
+
+![example](/_images/inq_1.jpg)
 
 Barangkali, jawabannya bisa dilacak dari seri karya Ines berjudul _Neofossil_. Kalau _Telluric Thoughts_ menyajikan karya dua dimensi dari potongan-potongan kertas dan pola berwarna, _Neofossil_ lebih berupa relief yang menyimpan ceritanya sendiri dalam wujud tiga dimensi. Seperti namanya, _Neofossil_ tampak seperti galian fosil yang belum sepenuhnya rampung. Tulang berulang sudah terlihat, tapi bayangan soal mahluk —atau monster?— itu tak sepenuhnya muncul.
 

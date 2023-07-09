@@ -1,5 +1,5 @@
 site: Faisal Nur
-url: #yoururl
+url: faisalnur.com
 title: Faisal Nur
 description: Blog, etc.
 twitter:
@@ -20,6 +20,9 @@ highlighter: none
 
 exclude:
   - .jekyll-cache
+
+include:
+  - "_images"
   
 compress_html:
   clippings: all
@@ -60,3 +63,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: "_images"
+      type: "posts"
+    values:
+      image: true
+      layout: "posts"
