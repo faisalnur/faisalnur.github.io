@@ -79,8 +79,9 @@ hr {
 
 header {
 	flex-grow:1;
-	position:fixed;
-	left:10rem;
+	position:static;
+	left:1rem;
+	margin-bottom:10px;
 }
 
 header a {

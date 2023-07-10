@@ -22,7 +22,7 @@ _Telluric_ sendiri merupakan istilah dari bahasa Latin _tellus_ yang berarti bum
 
 Peradaban panjang kita boleh membikin monster-monster itu sebagai luaran dari energi negatif yang kita simpan sedemikian rupa. Masalahnya kemudian, kemana larinya monster-monter itu ketika mitos telah diberantas _logos_? Ketika cerita, mahluk, dan gagasan primitif tak laku lagi dan digantikan oleh segala sesuatu yang serba saintifik?
 
-![example](/_images/inq_1.jpg)
+![example](/_images/inquirious/inq_1.jpg)
 
 Barangkali, jawabannya bisa dilacak dari seri karya Ines berjudul _Neofossil_. Kalau _Telluric Thoughts_ menyajikan karya dua dimensi dari potongan-potongan kertas dan pola berwarna, _Neofossil_ lebih berupa relief yang menyimpan ceritanya sendiri dalam wujud tiga dimensi. Seperti namanya, _Neofossil_ tampak seperti galian fosil yang belum sepenuhnya rampung. Tulang berulang sudah terlihat, tapi bayangan soal mahluk —atau monster?— itu tak sepenuhnya muncul.
 
