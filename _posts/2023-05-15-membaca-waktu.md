@@ -23,14 +23,14 @@ _Telluric Thoughts_ terdiri dari enam karya dengan pola-pola berulang pada poton
 
 _Telluric_ sendiri merupakan istilah dari bahasa Latin _tellus_ yang berarti bumi. Dalam teks kuratorial, dijelaskan bahwa Ines mencoba buat menggali kembali konsepsi mitologis manusia akan monster. Sesuatu yang asing itu, menurut Ines, dapat dilihat dalam perspektif psikologis pra-modern. _"A communal attempt to channel and externalize our negative energy, a form of collective catharsis,"_ tulis Ganjar Gumilar.
 
-![Telluric Thought 6](/_images/inquirious/inq_5)
+![Telluric Thought 6](/_images/inquirious/inq_5.jpg)
 _Telluric Thought 6_. **Paper, soil pigment, stainless & acrylic frame. 125 x 86 x 3 cm. Ines Katamso, 2023.**
 
 Peradaban panjang kita boleh membikin monster-monster itu sebagai luaran dari energi negatif yang kita simpan sedemikian rupa. Masalahnya kemudian, kemana larinya monster-monter itu ketika mitos telah diberantas _logos_? Ketika cerita, mahluk, dan gagasan primitif tak laku lagi dan digantikan oleh segala sesuatu yang serba saintifik?
 
 Barangkali, jawabannya bisa dilacak dari seri karya Ines berjudul _Neofossil_. Kalau _Telluric Thoughts_ menyajikan karya dua dimensi dari potongan-potongan kertas dan pola berwarna, _Neofossil_ lebih berupa relief yang menyimpan ceritanya sendiri dalam wujud tiga dimensi. Seperti namanya, _Neofossil_ tampak seperti galian fosil yang belum sepenuhnya rampung. Tulang berulang sudah terlihat, tapi bayangan soal mahluk —atau monster?— itu tak sepenuhnya muncul.
 
-![Neofossil 1](/_images/inquirious/inq_6)
+![Neofossil 1](/_images/inquirious/inq_6.jpg)
 _Neofossil 1_. **Recycled plastic, plaster on wood, stainless frame. 101 x 92 x 6 cm. Ines Katamso, 2023.**
 
 Saya sendiri melihat _Neofossil_ sebagai sebuah parodi dari peradaban yang telah membunuh monster-monster yang dulu kita bikin sendiri. Ines mengajak kita buat menggali kembali energi negatif yang kita pendam dan kita tinggalkan. Kita menyingkirkan plastik untuk menemukan plastik lain berbentuk fosil.
