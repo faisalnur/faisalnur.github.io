@@ -23,14 +23,14 @@ _Telluric Thoughts_ terdiri dari enam karya dengan pola-pola berulang pada poton
 
 _Telluric_ sendiri merupakan istilah dari bahasa Latin _tellus_ yang berarti bumi. Dalam teks kuratorial, dijelaskan bahwa Ines mencoba buat menggali kembali konsepsi mitologis manusia akan monster. Sesuatu yang asing itu, menurut Ines, dapat dilihat dalam perspektif psikologis pra-modern. _"A communal attempt to channel and externalize our negative energy, a form of collective catharsis,"_ tulis Ganjar Gumilar.
 
-![Telluric Thought 6](/_images/inq_5)
+![Telluric Thought 6](/_images/inquirious/inq_5)
 _Telluric Thought 6_. **Paper, soil pigment, stainless & acrylic frame. 125 x 86 x 3 cm. Ines Katamso, 2023.**
 
 Peradaban panjang kita boleh membikin monster-monster itu sebagai luaran dari energi negatif yang kita simpan sedemikian rupa. Masalahnya kemudian, kemana larinya monster-monter itu ketika mitos telah diberantas _logos_? Ketika cerita, mahluk, dan gagasan primitif tak laku lagi dan digantikan oleh segala sesuatu yang serba saintifik?
 
 Barangkali, jawabannya bisa dilacak dari seri karya Ines berjudul _Neofossil_. Kalau _Telluric Thoughts_ menyajikan karya dua dimensi dari potongan-potongan kertas dan pola berwarna, _Neofossil_ lebih berupa relief yang menyimpan ceritanya sendiri dalam wujud tiga dimensi. Seperti namanya, _Neofossil_ tampak seperti galian fosil yang belum sepenuhnya rampung. Tulang berulang sudah terlihat, tapi bayangan soal mahluk —atau monster?— itu tak sepenuhnya muncul.
 
-![Neofossil 1](/_images/inq_6)
+![Neofossil 1](/_images/inquirious/inq_6)
 _Neofossil 1_. **Recycled plastic, plaster on wood, stainless frame. 101 x 92 x 6 cm. Ines Katamso, 2023.**
 
 Saya sendiri melihat _Neofossil_ sebagai sebuah parodi dari peradaban yang telah membunuh monster-monster yang dulu kita bikin sendiri. Ines mengajak kita buat menggali kembali energi negatif yang kita pendam dan kita tinggalkan. Kita menyingkirkan plastik untuk menemukan plastik lain berbentuk fosil.
@@ -41,7 +41,7 @@ Ines barangkali ingin mengajak penikmat karyanya buat mempertanyakan kembali per
 
 Persoalannya bukan pada penggalian masa lalu dan sejarah alam pikiran manusia itu sendiri. Tetapi, bagaimana teknik yang sudah diujicobakan Ines itu bisa merekam, atau bahkan membayangkan peradaban yang bakal kita hadapi?
 
-![Neofossil 2](/_images/inq_11.jpg)
+![Neofossil 2](/_images/inquirious/inq_11.jpg)
 _Neofossil 2_. **Recycled plastic, plaster on wood, stainless frame. 100 x 71 x 6 cm. Ines Katamso, 2023.**
 
 Penting untuk mengembalikan term _"kontemporer"_ ke dalam karya Ines. Bukan hanya sebagai gaya dan teknik, tapi juga dari aspek wacana. Seandainya, di kemudian hari Ines bisa memuaskan diri dengan proyek ekskavasinya itu, barangkali kita bakal disajikan dengan karya yang lebih representatif dalam merespon persoalan dan cara hidup kita hari ini. Untuk ikut mengalir dalam arus peradaban, bukan justru sibuk hanyut dalam pencarian yang penuh romantisme.
@@ -50,14 +50,14 @@ _Neofossil_ barangkali menjadi satu karya yang cukup membawa wacana kontemporer 
 
 Peradaban antroposen meninggalkan monster-monster dalam bentuk perubahan iklim dan bencana alam. Monster yang dulunya sebatas rekaan manusia, kini mengancam dan menghantui dalam bentuknya yang paling nyata. Monster-monster itu kita lahirkan sendiri.
 
-![Neofossil 3](/_images/inq_7.jpg)
+![Neofossil 3](/_images/inquirious/inq_7.jpg)
 _Neofossil 3_. **Recycled plastic. 100 x 50 x 2 cm. Ines Katamso, 2023.**
 
 Dengan mengakui —dan hidup bersama— monster-monster itu, kita selangkah lebih dekat dengan apa yang dikatakan Donna Haraway sebagai cthulusen. Babak baru peradaban dimana segala yang di bumi dapat saling bertaut dan saling memberikan perhatian. Kita tidak membunuh monster-monster itu. Tapi mereka ada dan menjadi bagian dari hidup kita. Sebagaimanapun dampaknya. _"Nobody lives everywhere; everybody lives somewhere. Nothing is connected to everything; everything is connected to something,"_ kata Haraway. 
 
 ### Hasrat Primordial
 
-![Kala Lalu I,II,III](/_images/inq_3.jpg)
+![Kala Lalu I,II,III](/_images/inquirious/inq_3.jpg)
 
 Garis sejatinya adalah unsur visual paling dasar. Dia bisa mewujud ke dalam bentuk sesederhana dan serumit apapun. Dia cair selayaknya air yang bakal mengikuti bentuk wadahnya. Dalam seni rupa, barangkali wadah dari garis adalah imajinasi si pembuat karya. Sebastianus sendiri mengeksplorasi garis dalam imajinasi dan ambisi yang begitu primordial. Waktu.
 
@@ -71,21 +71,21 @@ Di lantai dua Semarang Contemporary Ary Gallery, pengunjung bakal disambut denga
 
 Sebagaimana penjelasan Ganjar dalam teks kuratorial, barangkali seri _Siklus Kala_ merupakan tawaran Sebastianus akan konsep waktu yang bercabang, atau yang dalam bahasa fiksi ilmiah lebih populer dengan sebutan _multiverse_. Tapi toh waktu —atau "kala", dalam bahasa Sebastianus- itu saling berkelindan dan tak sepenuhnya terpisah satu sama lain. Pada titik ini, tafsiran Ganjar soal karya-karya Sebastianus yang metaforik dan begitu menantang konsep tradisional akan waktu sepertinya cukup masuk akal dan beralasan.
 
-![Siklus Kala I & II](/_images/inq_10.jpg)
+![Siklus Kala I & II](/_images/inquirious/inq_10.jpg)
 _Siklus Kala I & II_. **Metal frame and cotton yarn. 180 x 100 x 60 cm, 180 x 200 x 50 cm. Alexander Sebastianus, 2023.**
 
 Karya lain yang patut disimak adalah _Melalui Masa_ dan _Menjelang Masa_. Kali ini, Sebastianus menggunakan kain tenun sebagai media dalam mengungkapkan perenungannya. Perhatikan pula penggunaan kata 'Masa' dan 'Kala' yang bakal sering muncul dalam seri karya yang dibawanya ke Kota Semarang.
 
 Kalau disimak betul, karya-karya Sebastianus yang menggunakan kata "Masa" banyak menampilkan pertemuan antara garis horizontal dan vertikal. Sementara itu, untuk karya dengan kata "Kala", garis horizontal jadi lebih ketara.
 
-![Di'antara Masa #01](/_images/inq_2.jpg)
+![Di'antara Masa #01](/_images/inquirious/inq_2.jpg)
 _Di'antara Masa #01_. **Handwoven cotton framed on teak. 98 x 98 cm. Alexander Sebastianus, 2021.**
 
 Permainan garis horizontal terlihat dalam seri _Kala Malam #02_ dan _Kala Study #02_. Karya pertama berbentuk kain tenun berwarna latar hitam dengan garis-garis horizontal berwarna putih. Sementara _Kala Study #02_ berbentuk guratan pena bertinta hitam dan biru diatas kertas.
 
 Barangkali, penamaan karya menggunakan kata "Kala" dan "Masa" bagi Sebastianus lebih dari sekedar pilihan estetik. Kata-kata yang mendefinisikan konsep kita soal waktu itu punya makna tersendiri yang oleh Sebastianus coba disingkap sedemikian rupa.
 
-![Melalui Masa](/_images/inq_4.jpg)
+![Melalui Masa](/_images/inquirious/inq_4.jpg)
 _Melalui Masa_. **Handwoven cotton. 100 x 300 cm. Alexander Sebastianus, 2021.**
 
 Barangkali pula, "Kala" yang horizontal itu menunjukkan waktu yang demikian linear. Konsep tersebut begitu _Heideggerian_, mengingat waktu diterjemahkan sebagai sesuatu yang terus berkembang sekaligus ruang bagi manusia sebagai _Being_ untuk bisa terus menjadi. Sampai kemudian berhenti dan menjumpai ujung dari waktunya. Suatu bentuk final waktu yang berbentuk kematian.
