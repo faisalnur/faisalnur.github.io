@@ -5,8 +5,6 @@ categories: Tulisan
 image: true
 permalink: /keluarga-ekologis/
 ---
-
-1.
 Hari pernikahan saya sudah semakin dekat. Selain sibuk dengan persiapan acara resepsi, saya dan Hani, pasangan saya, jadi lebih sering membicarakan soal rencana-rencana di masa mendatang. Terutama tentang keluarga.
 
 Obrolan soal keluarga mulanya muncul sebagai mekanisme penanggulangan atau _coping mechanism_ dari trauma yang kami berdua hadapi. Setelah menonton pertunjukan Teater Garasi di ArtJog pada awal Juli lalu, obrolan soal keluarga juga muncul bersama pembahasan soal identitas dan kultur Jawa yang sama-sama kental di keluarga kami hari ini.
@@ -23,7 +21,7 @@ Konsep ekonomi prometean sejatinya berangkat dari gagasan yang dicetuskan John D
 
 Di Indonesia, semangat yang sama juga terlihat dari kelompok nasionalis tahun 1920-an yang demikian terinspirasi oleh Lenin. Pada dekade setelahnya, semangat itu terus menguat dan mencapai puncaknya pada tahun 1960-an dengan berdirinya PT Krakatau Steel di Banten.
 
-"Teknologi industrial dianggap membuktikan kehebatan manusia dalam menguasai alam. Dan itu perlu dirayakan," kata Prof. Gerry. "Sikap tidak kritis terhadap industri modern kemudian dipegang oleh kaum apital dan komunis. Musibah ekologis akhirnya muncul dari pengaminan atas pandangan tersebut."
+"Teknologi industrial dianggap membuktikan kehebatan manusia dalam menguasai alam. Dan itu perlu dirayakan," kata Prof. Gerry. "Sikap tidak kritis terhadap industri modern kemudian dipegang oleh kaum kapital dan komunis. Musibah ekologis akhirnya muncul dari pengaminan atas pandangan tersebut."
 
 Ekonomi prometean sendiri bukan berdiri tanpa tandingan. Menurut Prof. Gerry, konsep tersebut tidak sepenuhnya alamiah, mengingat pada beberapa belahan dunia masih ada sistem kemasyarakatan yang justru bertentangan dengan semangat itu. Di Eropa misalnya, masih ada desa-desa Teutonik yang demikian komunal dan swadaya.
 
