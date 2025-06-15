@@ -1,0 +1,25 @@
+.two-columns-container {
+    display: flex; /* Menggunakan Flexbox untuk tata letak kolom */
+    flex-wrap: wrap; /* Memastikan kolom turun ke baris baru di layar kecil */
+    gap: 20px; /* Jarak antar kolom */
+}
+
+.two-columns-container .column-left,
+.two-columns-container .column-right {
+    flex: 1; /* Mengisi ruang yang tersedia secara merata */
+    min-width: 280px; /* Lebar minimum sebelum kolom turun ke baris baru */
+}
+
+/* Opsional: Untuk layar yang sangat kecil, jadikan satu kolom */
+@media (max-width: 768px) {
+    .two-columns-container {
+        flex-direction: column; /* Ubah menjadi satu kolom di perangkat seluler */
+    }
+    .two-columns-container .column-left,
+    .two-columns-container .column-right {
+        min-width: unset; /* Hapus lebar minimum agar bisa mengisi penuh */
+    }
+}
+
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0ZGluIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBIiwiZmlsZSI6InN0ZGluIiwic291cmNlc0NvbnRlbnQiOlsiLnR3by1jb2x1bW5zLWNvbnRhaW5lciB7XG4gICAgZGlzcGxheTogZmxleDsgLyogTWVuZ2d1bmFrYW4gRmxleGJveCB1bnR1ayB0YXRhIGxldGFrIGtvbG9tICovXG4gICAgZmxleC13cmFwOiB3cmFwOyAvKiBNZW1hc3Rpa2FuIGtvbG9tIHR1cnVuIGtlIGJhcmlzIGJhcnUgZGkgbGF5YXIga2VjaWwgKi9cbiAgICBnYXA6IDIwcHg7IC8qIEphcmFrIGFudGFyIGtvbG9tICovXG59XG5cbi50d28tY29sdW1ucy1jb250YWluZXIgLmNvbHVtbi1sZWZ0LFxuLnR3by1jb2x1bW5zLWNvbnRhaW5lciAuY29sdW1uLXJpZ2h0IHtcbiAgICBmbGV4OiAxOyAvKiBNZW5naXNpIHJ1YW5nIHlhbmcgdGVyc2VkaWEgc2VjYXJhIG1lcmF0YSAqL1xuICAgIG1pbi13aWR0aDogMjgwcHg7IC8qIExlYmFyIG1pbmltdW0gc2ViZWx1bSBrb2xvbSB0dXJ1biBrZSBiYXJpcyBiYXJ1ICovXG59XG5cbi8qIE9wc2lvbmFsOiBVbnR1ayBsYXlhciB5YW5nIHNhbmdhdCBrZWNpbCwgamFkaWthbiBzYXR1IGtvbG9tICovXG5AbWVkaWEgKG1heC13aWR0aDogNzY4cHgpIHtcbiAgICAudHdvLWNvbHVtbnMtY29udGFpbmVyIHtcbiAgICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsgLyogVWJhaCBtZW5qYWRpIHNhdHUga29sb20gZGkgcGVyYW5na2F0IHNlbHVsZXIgKi9cbiAgICB9XG4gICAgLnR3by1jb2x1bW5zLWNvbnRhaW5lciAuY29sdW1uLWxlZnQsXG4gICAgLnR3by1jb2x1bW5zLWNvbnRhaW5lciAuY29sdW1uLXJpZ2h0IHtcbiAgICAgICAgbWluLXdpZHRoOiB1bnNldDsgLyogSGFwdXMgbGViYXIgbWluaW11bSBhZ2FyIGJpc2EgbWVuZ2lzaSBwZW51aCAqL1xuICAgIH1cbn1cblxuIl19 */

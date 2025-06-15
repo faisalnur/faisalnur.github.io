@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Faisal Nur</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Faisal Nur</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ketika Polisi Moral Datang ke Acara Cosplay</title>
+      <link>http://localhost:1313/posts/2025-06-15-polisi-moral-melihat-cosplay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-06-15-polisi-moral-melihat-cosplay/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Ini adalah sebuah fragmen tulisan yang pertama kali saya tulis pada periode 2016-2018. Dikembangkan dan diselesaikan pada 15 Juni 2025.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Neovim untuk Mendukung Kerja Jurnalis</title>
+      <link>http://localhost:1313/posts/2025-06-14-jurnalis-nvim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-06-14-jurnalis-nvim/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;NeoVim dapat dikonfigurasi dengan tampilan tatap muka yang minimalis, otomatisasi penulisan markdown, serta navigasi yang cepat untuk mendukung kerja harian seorang jurnalis.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

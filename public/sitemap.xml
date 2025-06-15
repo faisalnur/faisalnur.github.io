@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-06-15-polisi-moral-melihat-cosplay/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/2025-06-14-jurnalis-nvim/</loc>
+  </url><url>
+    <loc>http://localhost:1313/porto/</loc>
+  </url><url>
+    <loc>http://localhost:1313/porto2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/profil/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/tulisan/</loc>
+  </url>
+</urlset>
