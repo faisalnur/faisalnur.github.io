@@ -6,8 +6,6 @@
 <html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
 <head>
     {{- partial "head.html" . }}
-{{ with resources.Get "css/style.css" | postCSS }}
-  <link rel="stylesheet" href="{{ .RelPermalink }}">
 {{ end }}
 </head>
 
