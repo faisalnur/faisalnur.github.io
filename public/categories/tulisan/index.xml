@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tulisan on Faisal Nur</title>
-    <link>https://faisalnur.github.io/categories/tulisan/</link>
+    <link>http://localhost:1313/categories/tulisan/</link>
     <description>Recent content in Tulisan on Faisal Nur</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://faisalnur.github.io/categories/tulisan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/tulisan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neovim untuk Mendukung Kerja Jurnalis</title>
-      <link>https://faisalnur.github.io/posts/2025-06-14-jurnalis-nvim/</link>
+      <link>http://localhost:1313/posts/2025-06-14-jurnalis-nvim/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://faisalnur.github.io/posts/2025-06-14-jurnalis-nvim/</guid>
+      <guid>http://localhost:1313/posts/2025-06-14-jurnalis-nvim/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;NeoVim dapat dikonfigurasi dengan tampilan tatap muka yang minimalis, otomatisasi penulisan markdown, serta navigasi yang cepat untuk mendukung kerja harian seorang jurnalis.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Ketika Polisi Moral Datang ke Acara Cosplay</title>
-      <link>https://faisalnur.github.io/posts/2025-06-15-polisi-moral-melihat-cosplay/</link>
+      <link>http://localhost:1313/posts/2025-06-15-polisi-moral-melihat-cosplay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://faisalnur.github.io/posts/2025-06-15-polisi-moral-melihat-cosplay/</guid>
+      <guid>http://localhost:1313/posts/2025-06-15-polisi-moral-melihat-cosplay/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Ini adalah sebuah fragmen tulisan yang pertama kali saya tulis pada periode 2016-2018. Dikembangkan dan diselesaikan pada 15 Juni 2025.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>
