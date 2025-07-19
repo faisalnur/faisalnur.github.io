@@ -32,6 +32,27 @@
                             </li>
                         {{ end }}
                     </ul>
+		    <ul class="posts-list">
+                        {{ range .Paginator.Pages }}
+                            <li>
+                                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                <p class="post-meta">
+                                    {{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} menit baca
+                                </p>
+                            </li>
+                        {{ end }}
+                    </ul>
+		    <ul class="posts-list">
+                        {{ range .Paginator.Pages }}
+                            <li>
+                                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                <p class="post-meta">
+                                    {{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} menit baca
+                                </p>
+                            </li>
+                        {{ end }}
+                    </ul>
+
                     {{ template "_internal/pagination.html" . }}
                 {{ else if eq .Kind "section" }}
                     <h2>{{ .Title }}</h2>

@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Faisal Nur</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kekerasan di Palestina Telah Berubah Menjadi Pertunjukan Semiotik</title>
+      <link>http://localhost:1313/posts/2025-07-20-wawancara-imajiner/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-07-20-wawancara-imajiner/</guid>
+      <description>&lt;p&gt;Setiap harinya, pekerjaan mengharuskan saya untuk bertemu dan mewawancarai banyak orang. Dari kalangan birokrat pemerintahan, pelaku usaha, pekerja, hingga ekonom-ekonom cemerlang di Semarang. Tapi rutinitas itu —sebagaimana rutinitas lainnya— pada akhirnya terasa menjemukan juga.&lt;/p&gt;&#xA;&lt;p&gt;Setelah mengikuti Bootcamp AI untuk Jurnalis IDCamp 2025 yang dilaksanakan Indosat bersama Dicoding pada April lalu, saya jadi getol mengulik teknologi kecerdasan buatan. Sampai muncul sebuah ide untuk melakukan wawancara dengan sosok-sosok yang unik, dan rasa-rasanya tidak mungkin bisa saya temui dan wawancarai langsung.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Neovim untuk Mendukung Kerja Jurnalis</title>
       <link>http://localhost:1313/posts/2025-06-14-jurnalis-nvim/</link>
