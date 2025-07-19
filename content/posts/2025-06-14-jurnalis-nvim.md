@@ -1,6 +1,7 @@
 ---
 categories: Tulisan
 image: true
+date: 2025-06-14
 layout: post
 permalink: /jurnalis-nvim/
 title: Neovim untuk Mendukung Kerja Jurnalis

@@ -1,0 +1,10 @@
+main:
+  - name: "Profil"
+    url: "/profil/"
+    weight: 10
+  - name: "Blog"
+    url: "/posts/"
+    weight: 20
+  - name: "Portofolio"
+    url: "/portofolio/"
+    weight: 30

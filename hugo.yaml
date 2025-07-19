@@ -2,56 +2,16 @@ baseURL: https://faisalnur.github.io/
 languageCode: en-us
 defaultContentLanguage: id
 Title: Faisal Nur
-theme: ["PaperMod"]
-
+theme: "minimalist-theme"
+params:
 menus:
   main:
-  - name: Home
-    pageRef: /
-    weight: 10
-
-params:
-  defaultTheme: light
-  disableThemeToggle: true
-  profileMode:
-    enabled: true
-    title: "Faisal Nur" # optional default will be site title
-    subtitle: "Menelusuri persimpangan jurnalisme, sains, dan advokasi sosial. Sembari sesekali merefleksikan pengalaman hidup, filsafat, dan hal-hal di antaranya."
-    imageUrl: "/img/profil.jpg" # optional
-    imageTitle: "" # optional
-    imageWidth: 200 # custom size
-    imageHeight: 200 # custom size
-    buttons:
-      - name: Blog
-        url: "/posts/"
-      - name: Portofolio
-        url: "/porto"
-  homeInfoParams:
-    #Title: Faisal Nur
-    Content: Menelusuri persimpangan jurnalisme, sains, dan advokasi sosial. Sembari sesekali merefleksikan pengalaman hidup, filsafat, dan hal-hal di antaranya.
-    socialIcons: # optional
-    - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/mfaisalni/"
-    - name: "Instagram"
-      url: "https://www.instagram.com/mfaisalni"
-    - name: "E-Mail"
-      url: "mfaisalni@gmail.com"
-  ShowReadingTime: true
-  ShowWordCOunt: true
-  ShowCodeCopyButtons: true
-  DateFormat: "2 Jan 2005"
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-    keys: ["title", "permalink", "summary", "content"]
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # necessary for search
+    - name: "Profil"
+      url: "/profil/"
+      weight: 10
+    - name: "Blog"
+      url: "/posts/"
+      weight: 20
+    - name: "Portofolio"
+      url: "/portofolio/"
+      weight: 30

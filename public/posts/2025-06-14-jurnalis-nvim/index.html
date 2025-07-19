@@ -1,87 +1,32 @@
 <!DOCTYPE html>
-<html lang="id" dir="auto">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
-<title>Neovim untuk Mendukung Kerja Jurnalis | Faisal Nur</title>
-<meta name="keywords" content="">
-<meta name="description" content="
-NeoVim dapat dikonfigurasi dengan tampilan tatap muka yang minimalis, otomatisasi penulisan markdown, serta navigasi yang cepat untuk mendukung kerja harian seorang jurnalis.">
-<meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/posts/2025-06-14-jurnalis-nvim/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.8fe10233a706bc87f2e08b3cf97b8bd4c0a80f10675a143675d59212121037c0.css" integrity="sha256-j&#43;ECM6cGvIfy4Is8&#43;XuL1MCoDxBnWhQ2ddWSEhIQN8A=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
-<meta name="theme-color" content="#2e2e33">
-<meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="id" href="http://localhost:1313/posts/2025-06-14-jurnalis-nvim/">
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
-
-    </style>
-</noscript>
-
-  <link rel="stylesheet" href="/css/style.css">
-
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neovim untuk Mendukung Kerja Jurnalis</title>
+    <link rel="stylesheet" href="/css/style.css">
 </head>
 
-<body class="" id="top">
+<body>
+    <input type="checkbox" id="hamburger-toggle">
+    <label for="hamburger-toggle" class="hamburger-icon">
+        <span></span>
+        <span></span>
+        <span></span>
+    </label>
 
-<header class="header">
-    <nav class="nav">
-        <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Faisal Nur (Alt + H)">Faisal Nur</a>
-            <div class="logo-switches">
-            </div>
-        </div>
-        <ul id="menu">
-            <li>
-                <a href="http://localhost:1313/" title="Faisal Nur">
-                    <span>Home</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/porto/" title="Portofolio">
-                    <span>Portofolio</span>
-                </a>
-            </li>
-            <li>
-                <a href="http://localhost:1313/profil/" title="Profil">
-                    <span>Profil</span>
-                </a>
-            </li>
-        </ul>
-    </nav>
-</header>
-
-    <main class="main">
-
-<article class="post-single">
-  <header class="post-header">
-    
-    <h1 class="post-title entry-hint-parent">
-      Neovim untuk Mendukung Kerja Jurnalis
-    </h1>
-    <div class="post-meta">9 menit&nbsp;·&nbsp;1723 kata
-
-</div>
-  </header> 
-  <div class="post-content"><blockquote>
+    <div class="container">
+        <div class="main-content-wrapper">
+            <div class="content-section">
+                <h2>Neovim untuk Mendukung Kerja Jurnalis</h2>
+                <blockquote>
 <p><em>NeoVim dapat dikonfigurasi dengan tampilan tatap muka yang minimalis, otomatisasi penulisan markdown, serta navigasi yang cepat untuk mendukung kerja harian seorang jurnalis.</em></p></blockquote>
 <p>Sebagai seorang jurnalis, tuntutan kecepatan, efisiensi, dan adaptasi terhadap teknologi adalah hal esensial. Kali ini, saya akan berbagi tentang salah satu perangkat lunak yang sangat integral dalam alur kerja saya: NeoVim.</p>
 <p>Di tengah banyaknya <em>word processor</em> canggih, mengapa memilih <em>text editor</em> berbasis <em>terminal</em> ini? Jawabannya sederhana: <strong>ringan, portabel, dan personalisasi tanpa batas.</strong> Saya membutuhkan aplikasi yang bisa digunakan di mana saja tanpa pusing memikirkan instalasi ulang <em>template</em>, makro, atau konfigurasi tampilan. NeoVim, dengan <em>file</em> konfigurasinya yang ringkas, memungkinkan saya membawa seluruh <em>workspace</em> penulisan dalam sebuah <em>flash drive</em> atau bahkan sekadar menyalinnya. Seluruh blog ini, termasuk tulisan yang sedang saya baca ini, saya tulis menggunakan Vim dan format Markdown.</p>
 <p>Mengapa Markdown? Karena saya enggan terikat dengan format <em>proprietary</em> atau aplikasi pengolah kata yang terlalu banyak fitur yang justru memecah fokus. Markdown memungkinkan saya menulis dengan cepat, menjaga struktur tulisan, dan menghasilkan <em>output</em> yang bersih serta mudah dikonversi ke berbagai format. NeoVim adalah tandem sempurna untuk kebiasaan ini.</p>
 <p>Nah, mari kita bedah bagaimana saya meracik NeoVim ini menjadi &ldquo;ruang kerja&rdquo; yang <em>neat and clean</em>, sekaligus <em>powerful</em> untuk kebutuhan jurnalisme saya.</p>
 <hr>
-<h4 id="1-konfigurasi-tampilan-fokus-tanpa-distraksi"><strong>1. Konfigurasi Tampilan: Fokus Tanpa Distraksi</strong><a hidden class="anchor" aria-hidden="true" href="#1-konfigurasi-tampilan-fokus-tanpa-distraksi">#</a></h4>
+<h4 id="1-konfigurasi-tampilan-fokus-tanpa-distraksi"><strong>1. Konfigurasi Tampilan: Fokus Tanpa Distraksi</strong></h4>
 <p>Sebagai penulis, saya membutuhkan <em>workspace</em> yang minim gangguan. NeoVim saya dirancang agar terlihat bersih dan efisien:</p>
 <ul>
 <li><code>set laststatus=2</code> dan <code>set cmdheight=0</code>: Baris status (<code>statusline</code>) selalu terlihat di bagian bawah, tetapi <em>command line</em> tersembunyi saat tidak aktif. Ini memberikan ruang pandang yang maksimal untuk teks.</li>
@@ -91,7 +36,7 @@ NeoVim dapat dikonfigurasi dengan tampilan tatap muka yang minimalis, otomatisas
 <li><code>highlight LineNr ctermfg=darkgrey</code> &amp; <code>hi CursorLineNr ... ctermbg=yellow</code>: Saya mengatur warna nomor baris agar tidak terlalu mencolok, namun nomor baris di kursor akan menonjol dengan latar kuning. Ini memudahkan saya fokus pada baris yang sedang saya kerjakan.</li>
 <li><code>set fillchars=vert:┃,diff:·,horiz:━,horizup:┻,horizdown:┳,vertleft:┫,vertright:┣</code>: Pengaturan ini untuk estetika visual <em>interface</em>, membuat pemisah jendela dan elemen lainnya terlihat lebih modern dan nyaman di mata.</li>
 </ul>
-<h4 id="2-fitur-pendukung-jurnalisme-otomatisasi-dan-navigasi-cepat"><strong>2. Fitur Pendukung Jurnalisme: Otomatisasi dan Navigasi Cepat</strong><a hidden class="anchor" aria-hidden="true" href="#2-fitur-pendukung-jurnalisme-otomatisasi-dan-navigasi-cepat">#</a></h4>
+<h4 id="2-fitur-pendukung-jurnalisme-otomatisasi-dan-navigasi-cepat"><strong>2. Fitur Pendukung Jurnalisme: Otomatisasi dan Navigasi Cepat</strong></h4>
 <p>Inilah bagian di mana NeoVim benar-benar bersinar dalam mendukung pekerjaan saya, terutama dalam penulisan naskah berita dan transkrip wawancara.</p>
 <ul>
 <li>
@@ -174,7 +119,7 @@ NeoVim dapat dikonfigurasi dengan tampilan tatap muka yang minimalis, otomatisas
 </span></span></code></pre></div><p>Sebelum artikel saya terbit, saya sering ingin melihat bagaimana tampilannya. <code>glow.nvim</code> memungkinkan saya merender <em>file</em> Markdown langsung di <em>terminal</em> dengan tampilan yang rapi dan mudah dibaca, mirip seperti <em>preview</em> di <em>website</em>. Praktis dan cepat!</p>
 </li>
 </ul>
-<h4 id="3-konfigurasi-standar-neovim"><strong>3. Konfigurasi Standar NeoVim:</strong><a hidden class="anchor" aria-hidden="true" href="#3-konfigurasi-standar-neovim">#</a></h4>
+<h4 id="3-konfigurasi-standar-neovim"><strong>3. Konfigurasi Standar NeoVim:</strong></h4>
 <p>Beberapa pengaturan ini adalah fondasi yang membuat NeoVim berfungsi dengan baik dan mendukung semua fitur di atas.</p>
 <ul>
 <li><code>set nocompatible</code>: Memastikan NeoVim menggunakan fitur modern dan bukan Vi klasik.</li>
@@ -184,12 +129,12 @@ NeoVim dapat dikonfigurasi dengan tampilan tatap muka yang minimalis, otomatisas
 <li><code>set mouse=a</code>: Mengaktifkan dukungan <em>mouse</em>, memberikan fleksibilitas navigasi.</li>
 <li><code>set clipboard^=unnamedplus</code>: Mengintegrasikan <em>clipboard</em> sistem, fundamental untuk <em>copy-paste</em> antar aplikasi.</li>
 </ul>
-<h4 id="4-konfigurasi-lainnya-dan-sedikit-sentuhan-estetika"><strong>4. Konfigurasi Lainnya (dan Sedikit Sentuhan Estetika):</strong><a hidden class="anchor" aria-hidden="true" href="#4-konfigurasi-lainnya-dan-sedikit-sentuhan-estetika">#</a></h4>
+<h4 id="4-konfigurasi-lainnya-dan-sedikit-sentuhan-estetika"><strong>4. Konfigurasi Lainnya (dan Sedikit Sentuhan Estetika):</strong></h4>
 <ul>
 <li><code>Plug 'itchyny/lightline.vim'</code>, <code>Plug 'tpope/vim-sensible'</code>, <code>Plug 'stevearc/aerial.nvim'</code>, <code>Plug 'nvim-lua/plenary.nvim'</code>, <code>Plug 'neoclide/coc.nvim'</code>, <code>Plug 'edluffy/hologram.nvim'</code>: Ini adalah baris <code>Plug</code> dari <em>plugin manager</em> yang saya gunakan (vim-plug). Mereka mendeklarasikan <em>plugin</em> apa saja yang saya instal. <code>vim-sensible</code> adalah <em>plugin</em> &ldquo;ramah pengguna&rdquo; yang menerapkan banyak pengaturan dasar yang direkomendasikan. <code>aerial.nvim</code> memberikan <em>outline</em> struktur dokumen, <code>plenary.nvim</code> adalah <em>dependency</em> untuk <code>telescope</code>, <code>coc.nvim</code> untuk fitur <em>autocompletion</em> dan diagnostik (meski jarang dipakai untuk penulisan murni), dan <code>hologram.nvim</code> memungkinkan pratinjau gambar di <em>terminal</em>.</li>
 </ul>
 <hr>
-<h3 id="refleksi-perjalanan-saya-dengan-foss-linux-dan-neovim"><strong>Refleksi: Perjalanan Saya dengan FOSS, Linux, dan NeoVim</strong><a hidden class="anchor" aria-hidden="true" href="#refleksi-perjalanan-saya-dengan-foss-linux-dan-neovim">#</a></h3>
+<h3 id="refleksi-perjalanan-saya-dengan-foss-linux-dan-neovim"><strong>Refleksi: Perjalanan Saya dengan FOSS, Linux, dan NeoVim</strong></h3>
 <p>Setelah saya membedah detail konfigurasi NeoVim ini, kini saya ingin berbagi sedikit tentang perjalanan yang membawa saya pada pilihan-pilihan teknologi tersebut. NeoVim bukan sekadar alat tulis; ia adalah bagian integral dari cara saya bekerja dan berpikir.</p>
 <p>Latar belakang pendidikan SMK Komputer saya, meskipun tidak berlanjut ke jenjang sarjana di bidang serupa, menumbuhkan hobi mendalam terhadap dunia teknologi, khususnya Linux. Awalnya, ketertarikan ini bermula dari kebutuhan yang sangat pragmatis: saya mencari sistem operasi yang ringan dan efisien untuk perangkat berspesifikasi rendah atau usia yang sudah tidak muda lagi, serta tentunya yang ramah di kantong. Linux menawarkan semua itu.</p>
 <p>Namun, seiring berjalannya waktu, minat saya berkembang jauh melampaui sekadar aspek fungsional. Saya mulai mendalami filosofi di balik <em>Free and Open Source Software</em> (FOSS) dan merasakan semangat kolaborasi yang kuat dari komunitas pengembangnya. Mengonfigurasi NeoVim ini memuaskan hobi saya dan membuka pengalaman baru, seperti belajar <em>vim script</em> dan membuat <em>script bash</em> sederhana untuk mengotomatisasi berbagai tugas harian.</p>
@@ -199,126 +144,32 @@ NeoVim dapat dikonfigurasi dengan tampilan tatap muka yang minimalis, otomatisas
 <p>Keunggulannya terletak pada keringanan, kecepatan, dan kemampuan personalisasi yang hampir tak terbatas. Saya bisa menciptakan <em>workspace</em> yang benar-benar sesuai dengan kebutuhan spesifik saya—dari menghitung kata secara otomatis, menyisipkan <em>template</em> berita instan, hingga mengelola catatan riset yang kompleks. Dampak yang saya rasakan sangat signifikan. Saya hanya membutuhkan sepersekian detik untuk membuka perangkat dan langsung mengakses dokumen-dokumen saya di NeoVim. Dengan menggunakan Markdown, seluruh dokumen kerja saya, yang terdiri dari naskah berita dan transkrip wawancara, dapat disimpan hanya dalam bentuk <em>file</em> berukuran sangat kecil—biasanya hanya 5-10 <em>file</em> termasuk catatan referensi di Vimwiki. Informasi yang ringkas dan mudah diakses inilah yang juga sangat membantu saya membuat naskah berita untuk diikutkan ke berbagai lomba dan <em>workshop</em> jurnalistik.</p>
 <p>Fleksibilitas NeoVim juga menjadi kunci. Ia memungkinkan saya menggunakan satu konfigurasi yang sama di banyak perangkat, mulai dari <em>shortcut</em>, <em>template</em>, hingga tampilan antarmuka. Ini berarti saya bisa fokus untuk menulis tanpa harus menyesuaikan diri dengan lingkungan kerja yang baru, tak hanya di komputer atau laptop, tetapi juga di <em>handphone</em> Android saya.</p>
 <p>Meskipun NeoVim identik dengan dunia <em>programmer</em>, pengalaman saya menunjukkan bahwa manfaatnya melampaui batas tersebut. Para jurnalis, penulis, peneliti, atau pekerja non-programmer lainnya yang mendambakan efisiensi, kontrol penuh atas lingkungan kerja digital, dan kebebasan dari fitur-fitur yang tidak perlu, dapat menemukan NeoVim sebagai solusi yang sangat relevan. Ia memberdayakan kita untuk bekerja lebih cepat, lebih rapi, dan lebih terfokus, tanpa perlu terbebani oleh <em>bloatware</em> atau biaya lisensi. NeoVim adalah bukti bahwa terkadang, yang paling sederhana justru yang paling revolusioner.</p>
+            </div>
+            <div class="fixed-paragraph">
+                <p>Hakuna Matata Motherfucka</p>
+            </div>
+        </div>
 
-  </div>
-
-  <footer class="post-footer">
-    <ul class="post-tags">
-    </ul>
-  </footer>
-</article>
-    </main>
+        <div class="tab-menu">
     
-<footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/">Faisal Nur</a></span> · 
+        <a href="/profil/" class="tab-label ">
+            Profil
+        </a>
+    
+        <a href="/posts/" class="tab-label ">
+            Blog
+        </a>
+    
+        <a href="/portofolio/" class="tab-label ">
+            Portofolio
+        </a>
+    
+</div>
 
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span> · 
+    </div>
 
-	<span>
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Buy me a Coffee</a>
-    </span>
+    <div class="footer">
+	<a href="https://creativecommons.org">©2025 </a><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div>
 
-
-</footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
-
-<script>
-    let menu = document.getElementById('menu')
-    if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
-    }
-
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
-
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
-
-</script>
-<script>
-    document.querySelectorAll('pre > code').forEach((codeblock) => {
-        const container = codeblock.parentNode.parentNode;
-
-        const copybutton = document.createElement('button');
-        copybutton.classList.add('copy-code');
-        copybutton.innerHTML = 'salin';
-
-        function copyingDone() {
-            copybutton.innerHTML = 'disalin!';
-            setTimeout(() => {
-                copybutton.innerHTML = 'salin';
-            }, 2000);
-        }
-
-        copybutton.addEventListener('click', (cb) => {
-            if ('clipboard' in navigator) {
-                navigator.clipboard.writeText(codeblock.textContent);
-                copyingDone();
-                return;
-            }
-
-            const range = document.createRange();
-            range.selectNodeContents(codeblock);
-            const selection = window.getSelection();
-            selection.removeAllRanges();
-            selection.addRange(range);
-            try {
-                document.execCommand('copy');
-                copyingDone();
-            } catch (e) { };
-            selection.removeRange(range);
-        });
-
-        if (container.classList.contains("highlight")) {
-            container.appendChild(copybutton);
-        } else if (container.parentNode.firstChild == container) {
-            
-        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
-            
-            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
-        } else {
-            
-            codeblock.parentNode.appendChild(copybutton);
-        }
-    });
-</script>
 </body>
-
 </html>

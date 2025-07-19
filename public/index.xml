@@ -1,66 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faisal Nur</title>
-    <link>http://localhost:1313/</link>
+    <link>https://faisalnur.github.io/</link>
     <description>Recent content on Faisal Nur</description>
-    <generator>Hugo -- 0.147.7</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ketika Polisi Moral Datang ke Acara Cosplay</title>
-      <link>http://localhost:1313/posts/2025-06-15-polisi-moral-melihat-cosplay/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-06-15-polisi-moral-melihat-cosplay/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Ini adalah sebuah fragmen tulisan yang pertama kali saya tulis pada periode 2016-2018. Dikembangkan dan diselesaikan pada 15 Juni 2025.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
-    </item>
+    <lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://faisalnur.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neovim untuk Mendukung Kerja Jurnalis</title>
-      <link>http://localhost:1313/posts/2025-06-14-jurnalis-nvim/</link>
+      <link>https://faisalnur.github.io/posts/2025-06-14-jurnalis-nvim/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://faisalnur.github.io/posts/2025-06-14-jurnalis-nvim/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;NeoVim dapat dikonfigurasi dengan tampilan tatap muka yang minimalis, otomatisasi penulisan markdown, serta navigasi yang cepat untuk mendukung kerja harian seorang jurnalis.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Ketika Polisi Moral Datang ke Acara Cosplay</title>
+      <link>https://faisalnur.github.io/posts/2025-06-15-polisi-moral-melihat-cosplay/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025-06-14-jurnalis-nvim/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;NeoVim dapat dikonfigurasi dengan tampilan tatap muka yang minimalis, otomatisasi penulisan markdown, serta navigasi yang cepat untuk mendukung kerja harian seorang jurnalis.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <guid>https://faisalnur.github.io/posts/2025-06-15-polisi-moral-melihat-cosplay/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Ini adalah sebuah fragmen tulisan yang pertama kali saya tulis pada periode 2016-2018. Dikembangkan dan diselesaikan pada 15 Juni 2025.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
       <title>Portofolio</title>
-      <link>http://localhost:1313/porto/</link>
+      <link>https://faisalnur.github.io/porto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/porto/</guid>
-      <description>&lt;p&gt;Saya memandang setiap informasi sebagai cerita yang perlu disampaikan, dan cerita itu perlu diarsipkan, baik melalui data, refleksi pribadi, maupun lewat lensa kamera dan gerak visual. Semuanya perlu dilakukan untuk membangun pijakan yang tepat bagi langkah kita ke depan.&lt;/p&gt;
-&lt;p&gt;Portofolio ini lebih dari sekedar kumpulan karya; ini adalah etalase bagi saya untuk menunjukkan pengalaman saya dalam mengolah data, pengalaman, dan observasi sehar-hari saya menjadi sebuah informasi dan wawasan bagi masyarakat banyak. Dari analisis ekonomi, eksplorasi filsafat, hingga jurnalisme yang kaya dengan data dan basis ilmiah. Setiap bagian dari karya yang saya buat adalah jejak idealisme sekaligus kontribusi saya dalam berbagai medium dan disiplin ilmu, dengan harapan mampu memberikan dampak positif bagi masyarakat dan lingkungan yang lebih luas.&lt;/p&gt;</description>
+      <guid>https://faisalnur.github.io/porto/</guid>
+      <description>&lt;p&gt;Saya memandang setiap informasi sebagai cerita yang perlu disampaikan, dan cerita itu perlu diarsipkan, baik melalui data, refleksi pribadi, maupun lewat lensa kamera dan gerak visual. Semuanya perlu dilakukan untuk membangun pijakan yang tepat bagi langkah kita ke depan.&lt;/p&gt;&#xA;&lt;p&gt;Portofolio ini lebih dari sekedar kumpulan karya; ini adalah etalase bagi saya untuk menunjukkan pengalaman saya dalam mengolah data, pengalaman, dan observasi sehar-hari saya menjadi sebuah informasi dan wawasan bagi masyarakat banyak. Dari analisis ekonomi, eksplorasi filsafat, hingga jurnalisme yang kaya dengan data dan basis ilmiah. Setiap bagian dari karya yang saya buat adalah jejak idealisme sekaligus kontribusi saya dalam berbagai medium dan disiplin ilmu, dengan harapan mampu memberikan dampak positif bagi masyarakat dan lingkungan yang lebih luas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Portofolio</title>
-      <link>http://localhost:1313/porto2/</link>
+      <link>https://faisalnur.github.io/portofolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/porto2/</guid>
-      <description>&lt;h3 id=&#34;2013---2019&#34;&gt;2013 - 2019&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.balairungpress.com/2014/01/komunitas-sepeda-tua-di-kota-budaya/&#34;&gt;Komunitas Sepeda Tua di Kota Budaya&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.balairungpress.com/2016/08/rantai-kemiskinan-dan-terorisme-di-mata-buya-syafii/&#34;&gt;Rantai Kemiskinan dan Terorisme di Mata Buya Syafii&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://jurnal.ugm.ac.id/wisdom/article/view/12785&#34;&gt;Meneropong Strategi Kebudayaan Melalui Kesadaran Historis Islam Wetu Telu&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.academia.edu/35454305/Fragmen_Kematian_yang_Berserakan_di_Jalanan&#34;&gt;Fragmen Kematian yang Berserakan di Jalanan&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.academia.edu/35454266/Tentang_Bapak_yang_Mengasah_Pisau_Untuk_Kematiannya_Sendiri&#34;&gt;Tentang Bapak yang Mengasah Pisau Untuk Kematiannya Sendiri&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://www.academia.edu/35454331/Ketika_Orang_Jawa_Belajar_Hidup_pada_Tanaman&#34;&gt;Ketika Orang Jawa Belajar Hidup pada Tanaman&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://semarang.bisnis.com/read/20201012/536/1303867/bisnis-tanaman-hias-di-masa-pandemi-bikin-berbunga&#34;&gt;Bisnis Tanaman Hias di Masa Pandemi Bikin Berbunga&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://semarang.bisnis.com/read/20200922/535/1295071/harum-tembakau-tak-seperti-yang-diharapkan&#34;&gt;Harum Tembakau Tak Seperti yang Diharapkan&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://semarang.bisnis.com/read/20210822/535/1432470/pantura-dalam-bayang-bayang-krisis-lingkungan&#34;&gt;Pantura dalam Bayang-bayang Krisis Lingkungan&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://semarang.bisnis.com/read/20210722/536/1420498/ambisi-naruna-jadi-produsen-keramik-kebanggaan-indonesia&#34;&gt;Ambisi Naruna jadi Produsen Keramik Kebanggaan Indonesia&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://semarang.bisnis.com/read/20211011/535/1452723/banjir-semarang-lagu-lama-sejak-zaman-belanda&#34;&gt;Banjir Semarang, Lagu Lama Sejak Zaman Belanda&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://semarang.bisnis.com/read/20211116/535/1466065/warga-desa-kaliprau-berharap-industrialisasi-melati&#34;&gt;Warga Desa Kaliprau Berharap Industrialisasi Melati&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://semarang.bisnis.com/read/20211203/535/1471626/tambak-lorok-potret-buram-gempita-pembangunan-kota-semarang&#34;&gt;Tambaklorok, Potret Buram Gempita Pembangunan Kota Semarang&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://semarang.bisnis.com/read/20211220/535/1479826/industri-jateng-was-was-cukai-minuman-berpemanis&#34;&gt;Was-was Cukai Minuman Berpemanis&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://faisalnur.github.io/portofolio/</guid>
+      <description>&lt;h3 id=&#34;2013---2019&#34;&gt;2013 - 2019&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.balairungpress.com/2014/01/komunitas-sepeda-tua-di-kota-budaya/&#34;&gt;Komunitas Sepeda Tua di Kota Budaya&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.balairungpress.com/2016/08/rantai-kemiskinan-dan-terorisme-di-mata-buya-syafii/&#34;&gt;Rantai Kemiskinan dan Terorisme di Mata Buya Syafii&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://jurnal.ugm.ac.id/wisdom/article/view/12785&#34;&gt;Meneropong Strategi Kebudayaan Melalui Kesadaran Historis Islam Wetu Telu&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.academia.edu/35454305/Fragmen_Kematian_yang_Berserakan_di_Jalanan&#34;&gt;Fragmen Kematian yang Berserakan di Jalanan&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.academia.edu/35454266/Tentang_Bapak_yang_Mengasah_Pisau_Untuk_Kematiannya_Sendiri&#34;&gt;Tentang Bapak yang Mengasah Pisau Untuk Kematiannya Sendiri&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://www.academia.edu/35454331/Ketika_Orang_Jawa_Belajar_Hidup_pada_Tanaman&#34;&gt;Ketika Orang Jawa Belajar Hidup pada Tanaman&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://semarang.bisnis.com/read/20201012/536/1303867/bisnis-tanaman-hias-di-masa-pandemi-bikin-berbunga&#34;&gt;Bisnis Tanaman Hias di Masa Pandemi Bikin Berbunga&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://semarang.bisnis.com/read/20200922/535/1295071/harum-tembakau-tak-seperti-yang-diharapkan&#34;&gt;Harum Tembakau Tak Seperti yang Diharapkan&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://semarang.bisnis.com/read/20210822/535/1432470/pantura-dalam-bayang-bayang-krisis-lingkungan&#34;&gt;Pantura dalam Bayang-bayang Krisis Lingkungan&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://semarang.bisnis.com/read/20210722/536/1420498/ambisi-naruna-jadi-produsen-keramik-kebanggaan-indonesia&#34;&gt;Ambisi Naruna jadi Produsen Keramik Kebanggaan Indonesia&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://semarang.bisnis.com/read/20211011/535/1452723/banjir-semarang-lagu-lama-sejak-zaman-belanda&#34;&gt;Banjir Semarang, Lagu Lama Sejak Zaman Belanda&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://semarang.bisnis.com/read/20211116/535/1466065/warga-desa-kaliprau-berharap-industrialisasi-melati&#34;&gt;Warga Desa Kaliprau Berharap Industrialisasi Melati&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://semarang.bisnis.com/read/20211203/535/1471626/tambak-lorok-potret-buram-gempita-pembangunan-kota-semarang&#34;&gt;Tambaklorok, Potret Buram Gempita Pembangunan Kota Semarang&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://semarang.bisnis.com/read/20211220/535/1479826/industri-jateng-was-was-cukai-minuman-berpemanis&#34;&gt;Was-was Cukai Minuman Berpemanis&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Profil</title>
-      <link>http://localhost:1313/profil/</link>
+      <link>https://faisalnur.github.io/profil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/profil/</guid>
-      <description>&lt;p&gt;Saya lahir di pinggiran Bekasi pada pertengahan 1990-an, tumbuh dalam lingkungan keluarga kerah biru yang sangat menjunjung tinggi pendidikan. Saat ini, saya bermukim di Ungaran, Kabupaten Semarang, dan berkarir sebagai jurnalis di &lt;em&gt;Bisnis Indonesia&lt;/em&gt; sejak tahun 2020. Fokus harian saya adalah meliput dan menganalisis perkembangan ekonomi dan bisnis di wilayah Jawa Tengah dan DI Yogyakarta, dengan hasil tulisan yang rutin dipublikasikan di platform daring, surat kabar, maupun majalah perusahaan.&lt;/p&gt;
-&lt;p&gt;Di luar gelanggang kewartawanan, saya juga menaruh minat pada banyak bidang, seperti ilmu pengetahuan dan teknologi, lingkungan, kebudayaan dan kesenian, pergerakan sosial, juga filsafat yang memang sudah saya dalami sejak kuliah di Yogyakarta. Gelar Sarjana Filsafat saya raih dari Universitas Gadjah Mada pada tahun 2020, dengan titik berat kajian pada masalah-masalah religi dan budaya.&lt;/p&gt;</description>
+      <guid>https://faisalnur.github.io/profil/</guid>
+      <description>&lt;p&gt;Saya lahir di pinggiran Bekasi pada pertengahan 1990-an, tumbuh dalam lingkungan keluarga kerah biru yang sangat menjunjung tinggi pendidikan. Saat ini, saya bermukim di Ungaran, Kabupaten Semarang, dan berkarir sebagai jurnalis di &lt;em&gt;Bisnis Indonesia&lt;/em&gt; sejak tahun 2020. Fokus harian saya adalah meliput dan menganalisis perkembangan ekonomi dan bisnis di wilayah Jawa Tengah dan DI Yogyakarta, dengan hasil tulisan yang rutin dipublikasikan di platform daring, surat kabar, maupun majalah perusahaan.&lt;/p&gt;&#xA;&lt;p&gt;Di luar gelanggang kewartawanan, saya juga menaruh minat pada banyak bidang, seperti ilmu pengetahuan dan teknologi, lingkungan, kebudayaan dan kesenian, pergerakan sosial, juga filsafat yang memang sudah saya dalami sejak kuliah di Yogyakarta. Gelar Sarjana Filsafat saya raih dari Universitas Gadjah Mada pada tahun 2020, dengan titik berat kajian pada masalah-masalah religi dan budaya.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://faisalnur.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faisalnur.github.io/search/</guid>
+      <description>search</description>
     </item>
   </channel>
 </rss>

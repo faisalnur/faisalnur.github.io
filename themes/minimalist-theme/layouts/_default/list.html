@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="id">
+{{ partial "header.html" . }}
+<body>
+    <input type="checkbox" id="hamburger-toggle">
+    <label for="hamburger-toggle" class="hamburger-icon">
+        <span></span>
+        <span></span>
+        <span></span>
+    </label>
+
+    <div class="container">
+        <div class="main-content-wrapper">
+            <div class="content-section">
+                {{ if .IsHome }}
+                    {{ with site.GetPage "/profil" }}
+                        <h2>{{ .Title }}</h2>
+                        {{ .Content }}
+                    {{ else }}
+                        <h2>Selamat Datang</h2>
+                        <p>Konten profil tidak ditemukan. Harap pastikan ada file `content/profil.md`.</p>
+                    {{ end }}
+                {{ else if eq .Kind "term" }}
+                    <h2>Arsip untuk {{ .Title }}</h2>
+                    <ul class="posts-list">
+                        {{ range .Paginator.Pages }}
+                            <li>
+                                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                <p class="post-meta">
+                                    {{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} menit baca
+                                </p>
+                            </li>
+                        {{ end }}
+                    </ul>
+                    {{ template "_internal/pagination.html" . }}
+                {{ else if eq .Kind "section" }}
+                    <h2>{{ .Title }}</h2>
+                    <ul class="posts-list">
+                        {{ range .Paginator.Pages }}
+                            <li>
+                                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                <p class="post-meta">
+                                    {{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} menit baca
+                                </p>
+                            </li>
+                        {{ end }}
+                    </ul>
+                    {{ template "_internal/pagination.html" . }}
+                {{ else }}
+                    <h2>{{ .Title }}</h2>
+                    <ul class="posts-list">
+                        {{ range .Paginator.Pages }}
+                            <li>
+                                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                <p class="post-meta">
+                                    {{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} menit baca
+                                </p>
+                            </li>
+                        {{ end }}
+                    </ul>
+                    {{ template "_internal/pagination.html" . }}
+                {{ end }}
+            </div>
+            <div class="fixed-paragraph">
+                <p>Elegansi sejati terletak pada kesederhanaan dan fungsionalitas yang tanpa cela.</p>
+            </div>
+        </div>
+
+        {{ partial "_menu.html" . }}
+    </div>
+
+    {{ partial "footer.html" . }}
+</body>
+</html>

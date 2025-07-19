@@ -1,0 +1,7 @@
+<div class="tab-menu">
+    {{ range .Site.Menus.main }}
+        <a href="{{ .URL | relURL }}" class="tab-label {{ if eq .URL $.RelPermalink }}active{{ end }}">
+            {{ .Name }}
+        </a>
+    {{ end }}
+</div>

@@ -2,26 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://faisalnur.github.io/categories/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://faisalnur.github.io/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-06-15-polisi-moral-melihat-cosplay/</loc>
+    <loc>https://faisalnur.github.io/posts/2025-06-14-jurnalis-nvim/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-06-14-jurnalis-nvim/</loc>
+    <loc>https://faisalnur.github.io/posts/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/porto/</loc>
+    <loc>https://faisalnur.github.io/categories/tulisan/</loc>
+    <lastmod>2025-06-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/porto2/</loc>
+    <loc>https://faisalnur.github.io/posts/2025-06-15-polisi-moral-melihat-cosplay/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://faisalnur.github.io/porto/</loc>
   </url><url>
-    <loc>http://localhost:1313/profil/</loc>
+    <loc>https://faisalnur.github.io/portofolio/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://faisalnur.github.io/profil/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://faisalnur.github.io/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/tulisan/</loc>
+    <loc>https://faisalnur.github.io/tags/</loc>
   </url>
 </urlset>
