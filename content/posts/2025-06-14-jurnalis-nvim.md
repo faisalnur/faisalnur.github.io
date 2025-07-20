@@ -5,11 +5,7 @@ date: 2025-06-14
 layout: post
 permalink: /jurnalis-nvim/
 title: Neovim untuk Mendukung Kerja Jurnalis
-#cover:
 ---
-> *NeoVim dapat dikonfigurasi dengan tampilan tatap muka yang minimalis, otomatisasi penulisan markdown, serta navigasi yang cepat untuk mendukung kerja harian seorang jurnalis.*
-<!--more-->
-
 Sebagai seorang jurnalis, tuntutan kecepatan, efisiensi, dan adaptasi terhadap teknologi adalah hal esensial. Kali ini, saya akan berbagi tentang salah satu perangkat lunak yang sangat integral dalam alur kerja saya: NeoVim.
 
 Di tengah banyaknya *word processor* canggih, mengapa memilih *text editor* berbasis *terminal* ini? Jawabannya sederhana: **ringan, portabel, dan personalisasi tanpa batas.** Saya membutuhkan aplikasi yang bisa digunakan di mana saja tanpa pusing memikirkan instalasi ulang *template*, makro, atau konfigurasi tampilan. NeoVim, dengan *file* konfigurasinya yang ringkas, memungkinkan saya membawa seluruh *workspace* penulisan dalam sebuah *flash drive* atau bahkan sekadar menyalinnya. Seluruh blog ini, termasuk tulisan yang sedang saya baca ini, saya tulis menggunakan Vim dan format Markdown.
@@ -137,7 +133,7 @@ Beberapa pengaturan ini adalah fondasi yang membuat NeoVim berfungsi dengan baik
 
 ---
 
-### **Refleksi: Perjalanan Saya dengan FOSS, Linux, dan NeoVim**
+## **Refleksi: Perjalanan Saya dengan FOSS, Linux, dan NeoVim**
 
 Setelah saya membedah detail konfigurasi NeoVim ini, kini saya ingin berbagi sedikit tentang perjalanan yang membawa saya pada pilihan-pilihan teknologi tersebut. NeoVim bukan sekadar alat tulis; ia adalah bagian integral dari cara saya bekerja dan berpikir.
 
