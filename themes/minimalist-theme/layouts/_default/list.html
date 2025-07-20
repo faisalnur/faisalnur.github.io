@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="id">
+<p>
+</p>
 {{ partial "header.html" . }}
 <body>
     <input type="checkbox" id="hamburger-toggle">
@@ -52,8 +52,6 @@
                             </li>
                         {{ end }}
                     </ul>
-
-                    {{ template "_internal/pagination.html" . }}
                 {{ else if eq .Kind "section" }}
                     <h2>{{ .Title }}</h2>
                     <ul class="posts-list">
@@ -66,7 +64,6 @@
                             </li>
                         {{ end }}
                     </ul>
-                    {{ template "_internal/pagination.html" . }}
                 {{ else }}
                     <h2>{{ .Title }}</h2>
                     <ul class="posts-list">
@@ -79,11 +76,10 @@
                             </li>
                         {{ end }}
                     </ul>
-                    {{ template "_internal/pagination.html" . }}
                 {{ end }}
             </div>
             <div class="fixed-paragraph">
-                <p>Elegansi sejati terletak pada kesederhanaan dan fungsionalitas yang tanpa cela.</p>
+		    {{ partial "pagination.html" . }}
             </div>
         </div>
 
