@@ -1,0 +1,17 @@
+{{ if gt .Paginator.TotalPages 1 }}
+<nav class="pagination" role="navigation" aria-label="Pagination Navigation">
+    {{ if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}" class="pagination-link pagination-prev">
+            <span aria-hidden="true">&leftarrow;</span> Artikel Lebih Baru
+        </a>
+    {{ end }}
+
+    <div class="pagination-spacer"></div>
+
+    {{ if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Next.URL }}" class="pagination-link pagination-next">
+            Artikel Lama <span aria-hidden="true">&rightarrow;</span>
+        </a>
+    {{ end }}
+</nav>
+{{ end }}
