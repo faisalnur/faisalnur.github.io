@@ -79,7 +79,9 @@
                 {{ end }}
             </div>
             <div class="fixed-paragraph">
-		    {{ partial "pagination.html" . }}
+		    {{ if not .IsHome }}  
+		        {{ partial "pagination.html" . }}
+		    {{ end }}
             </div>
         </div>
 

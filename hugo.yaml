@@ -1,7 +1,7 @@
 baseURL: https://faisalnur.github.io/
 languageCode: en-us
 defaultContentLanguage: id
-Title: Faisal Nur
+Title: Faisal Nur - Blog, etc.
 theme: "minimalist-theme"
 params:
 menus:
