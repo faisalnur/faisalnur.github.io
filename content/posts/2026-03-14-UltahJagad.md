@@ -1,7 +1,7 @@
 ---
 categories: Tulisan
 #image: true
-date: 2025-03-14
+date: 2026-03-14
 layout: post
 permalink: /jagad-kecil/
 title: Merawat Jagad Kecil
@@ -26,7 +26,8 @@ Lagu "Galang Rambu Anarki" mulai berputar tepat ketika Dokter Sapto meminta sust
 
 > وَمَآ اَرْسَلْنٰكَ اِلَّا رَحْمَةً لِّلْعٰلَمِيْنَ
 > "*wa mâ arsalnâka illâ raḫmatal lil-‘âlamîn*"
-> Kami tidak mengutus engkau (Nabi Muhammad), kecuali sebagai rahmat bagi seluruh alam. (Al-Anbiya: 107)
+> Kami tidak mengutus engkau (Nabi Muhammad), kecuali sebagai rahmat bagi seluruh alam.
+> (Al-Anbiya: 107)
 
 Jauh sebelum hari itu, saya dan Hani sudah sepakat untuk tidak menggunakan nama yang lazim. Kami ingin nama yang terasa "mengakar". Maka, dimulailah perburuan kata di Kamus Jawa Kuna karya Zoetmulder. Hani menandai entri-entri menarik dengan pulpen, dan saya—dengan sedikit bekal akademis yang saya punya—mencoba menjahitnya menjadi satu pemaknaan filosofis.
 
@@ -38,7 +39,8 @@ Jika digabungkan, Jagad bukan sekadar objek yang diterangi, melainkan subjek yan
 
 ---
 
-> _“Berbahagialah orang yang membawa damai, karena mereka akan disebut anak-anak Allah”_
+> _“Berbahagialah orang yang membawa damai,
+> karena mereka akan disebut anak-anak Allah”_
 > (Matius 5:9)
 
 Hari ini, bayi merah yang dulu saya sambut dengan canggung itu sudah genap berusia satu tahun. Agak aneh menyebutnya "bayi kecil" sekarang. Jagad sudah bertransformasi menjadi "Anak Gede"—begitu saya memanggilnya karena tingginya yang di atas rata-rata.
