@@ -1,5 +1,3 @@
-# Merawat Jagad Kecil: Sebuah Catatan Satu Tahun
-
 ---
 categories: Tulisan
 #image: true
