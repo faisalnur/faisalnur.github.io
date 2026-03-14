@@ -38,7 +38,8 @@ Jika digabungkan, Jagad bukan sekadar objek yang diterangi, melainkan subjek yan
 
 ---
 
-> _“Berbahagialah orang yang membawa damai, karena mereka akan disebut anak-anak Allah”_ (Matius 5:9)
+> _“Berbahagialah orang yang membawa damai, karena mereka akan disebut anak-anak Allah”_
+> (Matius 5:9)
 
 Hari ini, bayi merah yang dulu saya sambut dengan canggung itu sudah genap berusia satu tahun. Agak aneh menyebutnya "bayi kecil" sekarang. Jagad sudah bertransformasi menjadi "Anak Gede"—begitu saya memanggilnya karena tingginya yang di atas rata-rata.
 
@@ -48,6 +49,9 @@ Jagad selalu senang ketika diajak menyapa budhe-budhenya di sekitar rumah. Saat 
 
 Jagad tumbuh dikelilingi kasih sayang yang melimpah. Di ulang tahun pertamanya ini, doa kami sederhana: Teruslah tumbuh, Jagad. Jadilah cahaya yang menjernihkan, bukan yang menyilaukan. Jadilah pembawa damai sebagaimana namamu dijahit di antara lembar kamus kuno dan doa-doa kami.
 
-_Cepatlah besar matahariku,_ _Menangis yang keras janganlah ragu,_ _Tinjulah congkaknya dunia buah hatiku,_ _Doa kami di nadimu._
+_Cepatlah besar matahariku,_
+_Menangis yang keras janganlah ragu,_
+_Tinjulah congkaknya dunia buah hatiku,_
+_Doa kami di nadimu._
 
 Selamat ulang tahun, Jagad kecil kami.
